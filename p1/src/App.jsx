@@ -7,7 +7,7 @@ function App() {
   
   return (
     <div>
-      {/* wrap the compo that need recoil shit with recoilRoot*/}
+      {/* wrap the compo that need recoil shit with recoilRoot */}
       <RecoilRoot>
          <Count/>
       </RecoilRoot>
